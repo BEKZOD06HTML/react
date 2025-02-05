@@ -1,0 +1,64 @@
+.section{
+    width: 1440px;
+    height: 1000px;
+    background: #20272c;
+    margin: 0 auto;
+    padding: 30px 50px;
+}
+.bigcard{
+    width: 1200px;
+    height: 250px;
+    border: none;
+    background: #2C353D33;
+    padding: 50px;
+   border-radius: 50px;
+   position: relative;
+   left: 90px;
+}
+h3{
+    font-size: 24px;
+    color: #ffffff;
+    margin-bottom: 15px;
+    position: relative;
+    left: 35%;
+    font-weight: 500;
+
+}
+.logos{
+    top: 50px;
+        position: relative;
+}
+.figmatext{
+    width: 1300px;
+    height: 600px;
+    padding: 50px;
+    display: flex;
+    gap: 50px;
+}
+.textbtn {
+    width: 300px;
+    height: 200px;
+    color: white;    
+}
+.more{
+    width: 170px;
+    height: 45px;
+    border: none;
+    background: #FF6E30;
+    border-radius: 10px;
+    color: white;
+    
+}
+.textbtn p{
+    margin: 30px 0;
+    color: gray;
+}
+.textbtn h1{
+    font-size: 35px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.card{
+    margin-top: 10px;
+}
