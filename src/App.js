@@ -4,6 +4,7 @@ import Section from './components/section/section';
 import Footer from './components/footer/footer';
 
 
+
 function App() {
   return (
     <>
@@ -11,6 +12,7 @@ function App() {
       <Mid />
       <Section />
       <Footer />
+     
     </>
   );
 }
